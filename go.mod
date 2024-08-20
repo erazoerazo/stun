@@ -1,3 +1,3 @@
-module gortc.io/stun
+module gortc/stun
 
 go 1.12
